@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="me" value="module.exports.$END$ = ;" description="module.exports. ... = ...;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
