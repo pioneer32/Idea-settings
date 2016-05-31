@@ -4,4 +4,10 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="func" value="function $END$() {&#10;    &#10;}" description="Inserts function expression" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
