@@ -21,6 +21,6 @@
     <show-plugin-conflict-dialog value="false" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="5.1.1" last-modified="1449181487000" />
+    <node-interpreter path="/usr/local/bin/node" version="6.2.0" last-modified="1463514205000" />
   </component>
 </application>
