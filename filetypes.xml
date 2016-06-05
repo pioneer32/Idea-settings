@@ -17,6 +17,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="progress" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
