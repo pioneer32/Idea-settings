@@ -14,8 +14,8 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="conffiles" type="PLAIN_TEXT" />
       <mapping pattern="attachments" type="PLAIN_TEXT" />
-      <mapping pattern="info" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="info" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="progress" type="PLAIN_TEXT" />
