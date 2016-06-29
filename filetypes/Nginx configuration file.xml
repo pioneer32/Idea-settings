@@ -1,0 +1,19 @@
+<filetype binary="false" description="Nginx configuration file" name="Nginx configuration file">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="#" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="s,ms,k" />
+      <option name="HAS_BRACES" value="true" />
+    </options>
+    <keywords keywords="events;http;location;pid;server;timer_resolution;user;worker_cpu_affinity;worker_priority;worker_processes;worker_rlimit_nofile" ignore_case="true" />
+    <keywords2 keywords="log_format" />
+    <keywords3 keywords="open_file_cache" />
+    <keywords4 keywords="include" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="conf" />
+  </extensionMap>
+</filetype>
