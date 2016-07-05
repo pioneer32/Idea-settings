@@ -2,39 +2,39 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="build" type="Bash" />
-      <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="attachments" type="PLAIN_TEXT" />
-      <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="conffiles" type="PLAIN_TEXT" />
+      <mapping pattern="attachments" type="PLAIN_TEXT" />
       <mapping pattern="info" type="PLAIN_TEXT" />
+      <mapping pattern="notes" type="PLAIN_TEXT" />
+      <mapping pattern="conffiles" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="progress" type="PLAIN_TEXT" />
-      <mapping pattern="phpt" type="textmate" />
-      <mapping pattern="aw" type="textmate" />
-      <mapping pattern="php" type="textmate" />
       <mapping pattern="phtml" type="textmate" />
-      <mapping pattern="ctp" type="textmate" />
-      <mapping pattern="php5" type="textmate" />
       <mapping pattern="php4" type="textmate" />
+      <mapping pattern="php5" type="textmate" />
+      <mapping pattern="aw" type="textmate" />
       <mapping pattern="php3" type="textmate" />
-      <mapping ext="phpt" type="textmate" />
-      <mapping ext="php" type="textmate" />
-      <mapping ext="php5" type="textmate" />
-      <mapping ext="php4" type="textmate" />
-      <mapping ext="ctp" type="textmate" />
+      <mapping pattern="phpt" type="textmate" />
+      <mapping pattern="ctp" type="textmate" />
+      <mapping pattern="php" type="textmate" />
       <mapping ext="aw" type="textmate" />
+      <mapping ext="ctp" type="textmate" />
       <mapping ext="phtml" type="textmate" />
+      <mapping ext="php" type="textmate" />
+      <mapping ext="phpt" type="textmate" />
+      <mapping ext="php5" type="textmate" />
       <mapping ext="php3" type="textmate" />
+      <mapping ext="php4" type="textmate" />
     </extensionMap>
   </component>
 </application>
