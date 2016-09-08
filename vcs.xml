@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/pioneer32/babel-plugin-css-modules-transform.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://VladCh@bitbucket.org/kegstar/customer-portal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Google Drive/phpstorm-projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/WebStormProjects" />
   </component>
 </application>
