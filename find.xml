@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'sp-api-app'" />
-    <option name="defaultScopeName" value="Project 'sp-api-app'" />
-    <option name="SEARCH_SCOPE" value="Project 'sp-api-app'" />
+    <option name="customScope" value="Project 'kegstar-customer-portal'" />
+    <option name="defaultScopeName" value="Project 'kegstar-customer-portal'" />
+    <option name="SEARCH_SCOPE" value="Project 'kegstar-customer-portal'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
