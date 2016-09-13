@@ -4,6 +4,7 @@
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
   </JSCodeStyleSettings>
   <JSON>
+    <option name="PROPERTY_ALIGNMENT" value="1" />
     <option name="OBJECT_WRAPPING" value="1" />
     <option name="ARRAY_WRAPPING" value="1" />
   </JSON>
