@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '/Users/vlad/WebStormProjects/kegstar-customer-portal'" />
     <option name="defaultScopeName" value="Directory '/Users/vlad/WebStormProjects/kegstar-customer-portal'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/vlad/WebStormProjects/kegstar-customer-portal'" />
     <recentFileMasks>
       <mask>*.properties</mask>
