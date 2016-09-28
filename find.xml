@@ -3,6 +3,7 @@
     <option name="customScope" value="File '/Users/vlad/WebStormProjects/kegstar-customer-portal/src/components/dumb/InputLabeled/style.styl'" />
     <option name="defaultScopeName" value="File '/Users/vlad/WebStormProjects/kegstar-customer-portal/src/components/dumb/InputLabeled/style.styl'" />
     <option name="SEARCH_SCOPE" value="File '/Users/vlad/WebStormProjects/kegstar-customer-portal/src/components/dumb/InputLabeled/style.styl'" />
+    <option name="FILE_MASK" value="*.styl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,6 +14,7 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
+      <mask>*.styl</mask>
     </recentFileMasks>
   </component>
 </application>
