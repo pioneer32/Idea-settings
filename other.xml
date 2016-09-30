@@ -24,4 +24,7 @@
     <node-interpreter path="/usr/local/bin/node" version="6.2.0" last-modified="1463514205000" />
     <node-interpreter path="/usr/local/Cellar/node/6.5.0/bin/node" version="6.5.0" last-modified="1473040612000" />
   </component>
+  <component name="SvgViewer.Settings">
+    <option name="PLUGIN_ENABLED" value="true" />
+  </component>
 </application>
