@@ -19,6 +19,7 @@
       <mapping pattern="info" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping pattern="conffiles" type="PLAIN_TEXT" />
+      <mapping ext="svg" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="progress" type="PLAIN_TEXT" />
       <mapping pattern="phtml" type="textmate" />
