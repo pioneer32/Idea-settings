@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/Users/vlad/WebStormProjects/kegstar-customer-portal/src/components/dumb/InputLabeled/style.styl'" />
     <option name="defaultScopeName" value="File '/Users/vlad/WebStormProjects/kegstar-customer-portal/src/components/dumb/InputLabeled/style.styl'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/vlad/WebStormProjects/kegstar-customer-portal/src/components/dumb/InputLabeled/style.styl'" />
     <recentFileMasks>
       <mask>*.properties</mask>
