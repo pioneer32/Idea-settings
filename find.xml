@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/vlad/WebStormProjects/kegstar-customer-portal/src/components/dumb/InputLabeled/style.styl'" />
-    <option name="defaultScopeName" value="File '/Users/vlad/WebStormProjects/kegstar-customer-portal/src/components/dumb/InputLabeled/style.styl'" />
+    <option name="customScope" value="Directory '/Users/vlad/WebStormProjects/kegstar-customer-portal/src'" />
+    <option name="defaultScopeName" value="Directory '/Users/vlad/WebStormProjects/kegstar-customer-portal/src'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/vlad/WebStormProjects/kegstar-customer-portal/src/components/dumb/InputLabeled/style.styl'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/vlad/WebStormProjects/kegstar-customer-portal/src'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
