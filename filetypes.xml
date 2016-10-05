@@ -15,6 +15,7 @@
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc" type="PLAIN_TEXT" />
+      <mapping pattern="helpers.js" type="PLAIN_TEXT" />
       <mapping pattern="attachments" type="PLAIN_TEXT" />
       <mapping pattern="info" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
