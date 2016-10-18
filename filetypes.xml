@@ -23,22 +23,6 @@
       <mapping ext="svg" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="progress" type="PLAIN_TEXT" />
-      <mapping pattern="phtml" type="textmate" />
-      <mapping pattern="php4" type="textmate" />
-      <mapping pattern="php5" type="textmate" />
-      <mapping pattern="aw" type="textmate" />
-      <mapping pattern="php3" type="textmate" />
-      <mapping pattern="phpt" type="textmate" />
-      <mapping pattern="ctp" type="textmate" />
-      <mapping pattern="php" type="textmate" />
-      <mapping ext="aw" type="textmate" />
-      <mapping ext="ctp" type="textmate" />
-      <mapping ext="phtml" type="textmate" />
-      <mapping ext="php" type="textmate" />
-      <mapping ext="phpt" type="textmate" />
-      <mapping ext="php5" type="textmate" />
-      <mapping ext="php3" type="textmate" />
-      <mapping ext="php4" type="textmate" />
     </extensionMap>
   </component>
 </application>
